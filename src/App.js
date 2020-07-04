@@ -10,7 +10,7 @@ import TableCell from '@material-ui/core/TableCell';
 import { withStyles } from '@material-ui/core/styles';
 
 test = []
-test2 = []
+
 
 const styles = theme => ({
   root: {
