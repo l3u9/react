@@ -119,5 +119,5 @@ class App extends Component{
   }
 } */
 
-ls
+
 export default withStyles(styles)(App);
